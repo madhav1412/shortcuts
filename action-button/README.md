@@ -8,4 +8,4 @@ This shortcut has a no-user interaction approach to using the Action Button. It 
 # Functionalities 
 1. Toggles Safari Reader if safari is open and a website supporting Reader Mode is being viewed.
 2. If device is in landscape orientation turns on auto rotate.
-3. If device is in portrait mode turns off auto rotate if enabled or toggles flashlight.
+3. If device is in portrait orientation turns off auto rotate if enabled or toggles flashlight.
