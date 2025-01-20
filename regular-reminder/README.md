@@ -1,0 +1,2 @@
+# Regular Reminder
+If you work a 9-to-5 job and want quick reminders before or after work, or in the evening, this shortcut makes it easier to set them up on iOS. Simply provide the reminder text, and it will offer a list of specific times today or tomorrow for you to choose from.
